@@ -12,8 +12,8 @@ Feel free to fork, contribute with your own resources and pull request! :purple_
 
 The fonts used in the logo and posters / bags designs can be found at:
 
-* [Inter](https://www.google.com/fonts/specimen/Inter)
-* [Fraunces](https://www.google.com/fonts/specimen/Fraunces)
+* [Inter](https://fonts.google.com/specimen/Inter)
+* [Fraunces](https://fonts.google.com/specimen/Fraunces)
 
 ## License
 
