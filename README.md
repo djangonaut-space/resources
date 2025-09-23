@@ -18,3 +18,7 @@ The fonts used in the logo and posters / bags designs can be found at:
 ## License
 
 If you're not a Djangonaut Space organizer or admin, you first need to receive a permission via e-mail from contact@djangonaut.space.
+
+## Attributions
+
+- The [astronaut graphics](https://www.freepik.com/author/catalyststuff) were purchased through Freepik.com
