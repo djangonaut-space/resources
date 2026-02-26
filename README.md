@@ -21,4 +21,5 @@ If you're not a Djangonaut Space organizer or admin, you first need to receive a
 
 ## Attributions
 
-- The [astronaut graphics](https://www.freepik.com/author/catalyststuff) were purchased through Freepik.com
+- The [astronaut graphics](https://www.freepik.com/author/catalyststuff) were purchased through Freepik.com with catalyststuff as the creator.
+- Internally, we use planet icons from [DinosaoftLabs](https://www.flaticon.com/authors/dinosoftlabs) and [Gohsantosadrive](https://www.flaticon.com/authors/gohsantosadrive?type=sticker).
