@@ -10,6 +10,8 @@ Inside you can find resources for Djangonaut Space.
 
 Feel free to fork, contribute with your own resources and pull request! :purple_heart: :rocket: 
 
+Djangonaut Space logo use this shade of purpler: #5c0287
+
 The fonts used in the logo and posters / bags designs can be found at:
 
 * [Inter](https://fonts.google.com/specimen/Inter)
