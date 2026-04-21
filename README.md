@@ -25,5 +25,6 @@ The Freepik licenses have been been stored in the Djangonaut Space Google Drive 
 
 ## Attributions
 
+- The stickers were created by and licensed from Sangeeta Jadoonanan (https://sangeeta.io/ and https://djangostickers.com)
 - The [astronaut graphics](https://www.freepik.com/author/catalyststuff) were purchased through Freepik.com with catalyststuff as the creator.
 - Internally, we use planet icons from [DinosaoftLabs](https://www.flaticon.com/authors/dinosoftlabs) and [Gohsantosadrive](https://www.flaticon.com/authors/gohsantosadrive?type=sticker).
